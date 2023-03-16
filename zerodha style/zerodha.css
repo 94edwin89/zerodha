@@ -1,0 +1,268 @@
+header{
+    margin-left: 5rem;
+    margin-right: 6rem;
+}
+.logo-image{
+    width: 100px;
+    margin: 1rem;
+    margin-right: 26rem;
+}
+.nav{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(121, 115, 115);
+    font-size: 12px;
+    font-weight: 500;
+    margin: 1rem;
+    cursor: pointer;
+}
+.nav:hover{
+    color: rgb(106, 106, 236);
+}
+.menu{
+    
+    display: flex;
+    justify-content: end;
+    align-items: center;  
+}
+.div-line{
+    height: .7px;
+   background-color: rgb(238, 230, 230);
+}
+/* end of the navigation bar */
+
+
+.image1{
+    width: 360px;
+    margin-left: 22rem;
+    
+}
+.heading1{
+    font-size: 37px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(63, 62, 62);
+    margin-left: 22rem;
+}
+.heading1-para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: rgb(63, 62, 62);
+    margin-left: 15rem;
+
+}
+.signup-button{
+    color: white;
+    background-color: #387ed1;
+    width: 150px;
+    height: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    border-radius: 3px;
+  padding: .2px;
+  margin-left: 26rem;
+  cursor: pointer;
+  
+    
+}
+.signup-button:hover{
+    background-color: rgb(97, 94, 94);
+}
+/* end of the section one */
+.image2{
+    width: 360px;
+   float: left;
+   margin-right: 8rem;
+   margin-left: 3rem;
+    
+
+}
+.heading2{
+ font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(63, 62, 62);
+    
+}
+.heading2-para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(63, 62, 62);
+}
+.unorder-list1{
+font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(63, 62, 62);
+}
+.unorder-list2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(63, 62, 62);
+}
+.image2-2{
+width: 480px;
+}
+.image2-2:hover{
+    color: rgb(70, 67, 67);
+}
+/* end of the second section */
+
+.image3{
+width: 80%;
+height: 50%;
+margin-left: 5rem;
+}
+.heading3{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(63, 62, 62);
+    margin-left: 25rem;
+}
+.heading3-para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: rgb(63, 62, 62);
+    margin-left: 18rem;
+}
+/* end of the section third */
+.heading41{
+    float: left;
+    margin-left: 8rem;
+    margin-right: 5rem;
+}
+.heading4{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(63, 62, 62);
+    
+}
+.heading4-para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: rgb(63, 62, 62);
+}
+
+/* end of the forth section heading
+ */
+
+.table{
+    display: flex;
+    height: 150px;
+   
+}
+ #heading5{
+    font-size: 2rem;
+ }
+#heading5-1{
+font-size: 2rem;
+}
+.table1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(63, 62, 62);
+    border: solid;
+    border-width: 1px;
+    width: 200px;
+    text-align: center;
+}
+.table2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgb(63, 62, 62);
+    border: solid;
+    border-width: 1px;
+    width: 200px;
+    text-align: center;
+}
+
+/* end of the third page section */
+.image4-section{
+    display: flex;
+    margin-left: 4rem;
+}
+.image4{
+    width: 350px;
+}
+.image4-heading{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94, 91, 91);
+    margin-top: 5rem;
+    font-weight: 600;
+    margin-left: 3rem;
+}
+.image4-paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 3rem;
+}
+/* end of the forth image section */
+
+.last-heading{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(78, 75, 75);
+    font-weight: 700;
+    margin-left: 22rem;
+}
+.last-paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(163, 158, 158);
+    margin-left: 12rem;
+}
+/* end of the main section */
+
+.footer-logo{
+    width: 120px;
+}
+.footer-copy{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: rgb(131, 126, 126);
+}
+.header-footer{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(82, 80, 80);
+}
+.footer-para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    color: rgb(136, 132, 132);
+    cursor: pointer;
+}
+.footer-para:hover{
+    color: rgb(155, 155, 240);
+}
+/* ################# */
+
+#lots-para{
+    font-size: 10px;
+}
+.lot-para{
+    margin-left: 3rem;
+    color: rgb(165, 159, 159);
+}
+/* 999999999999999999999999999999 */
+
+.end-section{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color:rgb(165, 159, 159) ;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 700;
+}
+.end{
+    cursor: pointer;
+}
+.end:hover{
+    color: rgb(123, 123, 247);
+}
+footer{
+    background-color: #eaeef3;
+}
